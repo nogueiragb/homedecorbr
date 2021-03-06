@@ -7,7 +7,6 @@ body{
 p{
     color: #0e0d05;
     font-size: 2vw;
-    
 }
 
 
@@ -16,6 +15,13 @@ p{
     max-height:70px;
     width: auto;
     height: auto;
+}
+
+/*Header*/
+
+.navbar-dark{
+    background-color: #00afb9;
+    text-align: center;
 }
 
 /*BannerPrincipalHome*/
@@ -56,6 +62,11 @@ p{
     color: #fed9b7;
 }
 
+.title1{
+    margin-top: -150px;
+    margin-bottom: 40px;
+}
+
 #descrbox{
     background-color: #f07067a8;
     width: 100%;
@@ -71,7 +82,14 @@ p{
 #imgbanner{
     background-repeat: no-repeat;
     width: 100%;
+    max-height: 720px;
 }
+
+.home-section1 .container-section1{
+    text-align: center;
+    
+}
+
 
 
 /*Rodapé*/
