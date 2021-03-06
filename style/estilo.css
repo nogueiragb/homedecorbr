@@ -95,6 +95,7 @@ p{
 /*Rodapé*/
 .rodape{
     width: 100%;
+    max-width: 1280px;
     background-color:#00afb9;
     position: absolute;
 }
@@ -108,22 +109,39 @@ p{
 /*Box Página Inicial*/
 
 .boxp1{
-    margin: 30px;
+    padding: 30px 0;
     background-color: white;
+    width: 100%;
+    max-width: 1280px;
 }
 
 #imgbox{
     width: 100%;
+    max-width: 400px;
 }
+
 
 #tittlebox{
     color: #f07167;
     font-size: 22px;
     font-weight: bold;
+    text-align: center;
+    padding: 5px 0;
 }
 
 #textbox{
+    padding: 0 10px;
+    font-size: 15px;
+    width: 100%;
+    max-width: 480px;
     text-align: justify;
+}
+
+.box1{
+    text-align: center;
+    width: 30%;
+    padding: 0 15px;
+    float: left;
 }
 
 /*TeamBox*/
