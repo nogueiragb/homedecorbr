@@ -1,4 +1,0 @@
-Dados do Aluno:
-
-Nome: Gabriel Nogueira
-Matrícula: 20191104968
